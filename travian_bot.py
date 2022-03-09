@@ -18,7 +18,7 @@ from BeautifulSoup import BeautifulSoup
 from collections import defaultdict
 
 
-SERVER = 'http://ts4.travian.net/'
+SERVER = 'https://ts7.x1.international.travian.com'
 USERNAME = ''
 PASSWORD = ''
 
